@@ -1,23 +1,14 @@
 ---
-title: Our Coffee
+title: Our asdf
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
 heading: sdfasdfasf What we offer
-description: >-
-  Kaldi is the asdf ultimate spot for coffee lovers who want to learn about
-  their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+description: asdfasdf
 intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: fdsaasdfdsasdfdsasdfdsas
     - image: /img/illustrations/coffee-gear.svg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
@@ -38,12 +29,8 @@ intro:
         to help. You can schedule a custom 1-on-1 consultation with our baristas
         to learn anything you want to know about coffee roasting and brewing.
         Email us or call the store for details.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: What we asdf
+  description: asdfasdfasdfasdf
 main:
   heading: Great coffee with no compromises
   description: >
@@ -99,6 +86,7 @@ pricing:
       plan: Custom
       price: '?'
 ---
+
 
 
 
